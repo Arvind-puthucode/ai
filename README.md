@@ -1,2 +1,3 @@
 # ai
-perceptron,hmm,kohenn map
+perceptron.py
+
