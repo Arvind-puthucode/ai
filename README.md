@@ -1,5 +1,5 @@
 # ai
-perceptron.py
-percep.py
-hmm.py
-kohenn.py
+perceptron.py \\
+percep.py  \\ 
+hmm.py \\
+kohenn.py \\
