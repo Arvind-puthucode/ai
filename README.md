@@ -1,8 +1,8 @@
 # ai
 perceptron.py
-\\
-percep.py
-\\
+
+percp.py
+
 hmm.py
-\\
-kohenn.py \\
+
+kohenn.py 
